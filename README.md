@@ -45,9 +45,6 @@ Essa ferramenta visa facilitar a geração de relatórios para solicitar o envio
 3. Clique em **Buscar Ruas**.
 4. O programa irá gerar um arquivo chamado `ruas_1km.csv` com os nomes das ruas encontradas no raio de 1 km.
 
-## 📋 Exemplo de Uso
-![Exemplo da interface gráfica](docs/interface_exemplo.png)
-
 ## 📝 Observações
 - A coleta dos nomes das ruas é realizada via Overpass API (OpenStreetMap), portanto, é necessário acesso à internet.
 - O arquivo gerado (`ruas_1km.csv`) pode ser enviado diretamente para a administração pública.
